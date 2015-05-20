@@ -1,0 +1,19 @@
+{
+  "username": "GitHub login",
+  "password": "GitHub password",
+  "repos": [
+    "user1/repo1",
+    "user2/repo2"
+  ],
+  "fields": [
+    "title",
+    "body",
+    "state",
+    "closed_at",
+    "html_url"
+  ],
+  "filter": {
+    "state": "closed"
+  },
+  "lastDays": 60
+}
